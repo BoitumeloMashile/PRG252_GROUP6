@@ -16,7 +16,7 @@ namespace PRG252__Project_Group_6
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new StudentForm());
+            Application.Run(new Login());
         }
     }
 }
